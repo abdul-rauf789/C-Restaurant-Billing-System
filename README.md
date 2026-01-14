@@ -14,31 +14,6 @@ This program allows the user to generate an invoice for multiple food items, cal
 
 ## Usage
 
-1. Compile the program using a C compiler:
-   ```bash
-   gcc main.c -o restaurant
-2. Run the Program:
-./restaurant
-3. EXAMPLE
-  Enter Item Code and Quantity (0 0 to finish): 1 2
-  Enter Item Code and Quantity (0 0 to finish): 3 1
-  Enter Item Code and Quantity (0 0 to finish): 0 0
-4. OUTPUT
-   =========== MENU ===========
-1  Roti            Rs.15
-2  Fruit Salad     Rs.450
-...
-============================
-
-Enter Item Code and Quantity (0 0 to finish): 1 2
-1   Roti            15    2    30
-Enter Item Code and Quantity (0 0 to finish): 3 1
-2   Biryani         490   1   490
-Enter Item Code and Quantity (0 0 to finish): 0 0
---------------------------------
-TOTAL BILL: Rs.520
---------------------------------
-Thank you for visiting!
-Contact: +92 XXX XX XXX for more details.
+Just Copy the **Code** and **Paste** it onto the Online C Compiler.
 
 
