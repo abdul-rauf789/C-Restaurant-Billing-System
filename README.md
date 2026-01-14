@@ -39,6 +39,6 @@ Enter Item Code and Quantity (0 0 to finish): 0 0
 TOTAL BILL: Rs.520
 --------------------------------
 Thank you for visiting!
-Contact: 0321-9670967
+Contact: +92 XXX XX XXX for more details.
 
 
